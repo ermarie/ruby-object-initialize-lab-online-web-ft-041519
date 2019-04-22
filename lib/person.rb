@@ -5,6 +5,6 @@ class Person
     @breed = breed
   end
 
-  
+
 
 end
